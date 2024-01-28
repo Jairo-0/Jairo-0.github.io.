@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<meta charset="utf-8">
+		<title>fortnite</title>		
+	</head>
+	<body style="background-color:pink">
+		<h1>FORTNITE</h1>
+		<p>Voy a hablar de unos de mis hobbies favoritos el cual es jugar al videojuego llamado <mark><i>Fortnite</i></mark></p>
+		<hr>
+		<p>Me gusta mucho este juego por muchas cosas así que voy a dar algunas razones por las que me gusta jugarlo</p>
+		<p>1.Me gustan muchos los juegos de disparos.<br>
+		 <hr>
+		 2.Me gusta jugarlo con mi mejor amigo Pablo porque siempre nos lo pasamos bien jugandolo.<br>
+		 <hr>
+		 3.Me gusta la mecánica que hay de construcción y edición del juego<br>
+		 <hr>
+		  4.Me gusta el modo creativo que son otros modos de juegos dentro del propio fortnite para que no sea siempre tan repetitivo<br>
+		 <hr>
+		5.Y por ultimo me gusta porque a veces las patidas son bastante difíciles y emocionantes.</br></p>
+		 <hr>
+		 <p><b>Pero sobre todo lo que más me gusta es jugarlo con mis amigos ya que hace que las partidas sean mas divertidas y no se hagan repetitivas</b></p>
+		 <hr>
+		 <p>Aquí os dejo un enlace para volver a la pagina principal</p>
+		 <hr>
+		 <p>. <a href="file:///C:/Users/garci/Desktop/Pagina%20web%20de%20Jairo.index"target="_blank">pagina principal</a></p>
+		<img src="imagenes/6fortnite.jpg" width="300" height="225" "alt:fortnite.">
+	</body>
+</html>
